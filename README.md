@@ -4,3 +4,8 @@ Prova finale di algoritmi e principi dell'informatica per l'anno accademico 2022
 Docente: Martineghi Davide
 
 Valutazione: 30L/30
+
+## Evaluation constraints
+|Valutazione|Memoria|Tempo|Esito|
+|---|---|---|---|
+|18|128MiB|19s|✅|
