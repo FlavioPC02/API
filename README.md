@@ -9,3 +9,8 @@ Valutazione: 30L/30
 |Valutazione|Memoria|Tempo|Esito|
 |---|---|---|---|
 |18|128MiB|19s|✅|
+|21|118MiB|15s|✅|
+|24|108MiB|10s|✅|
+|27|98MiB|6s|✅|
+|30|88MiB|4s|✅|
+|30L|78MiB|1s|✅|
